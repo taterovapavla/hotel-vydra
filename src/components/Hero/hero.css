@@ -1,0 +1,10 @@
+.hero {
+  background-image: url(../../img/hotel.jpg);
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
