@@ -1,0 +1,30 @@
+.rooms {
+  width: 100vw;
+  background-color: #131E2A;
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0rem;
+}
+
+.rooms__room-list {
+  width: 70vw;
+}
+
+.rooms__heading {
+  margin: 1.5rem 0rem;
+}
+
+.rooms__description {
+  margin: 2rem 0rem;
+  margin-top: 1.5rem;
+}
+
+.rooms__list-item {
+  color: #E8E9F3;
+}
+
+.rooms__list-item {
+  display: flex;
+  justify-content: space-between;
+}

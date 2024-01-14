@@ -1,0 +1,17 @@
+.room {
+  display: flex;
+  flex-direction: column;
+}
+
+.room__image {
+  width: 10rem;
+  height: auto;
+}
+
+.room__heading {
+  margin: 1rem 0rem;
+}
+
+.room__price {
+  margin: 1rem 0rem;
+}
