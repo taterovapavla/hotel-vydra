@@ -1,0 +1,43 @@
+footer {
+  background-color: #131e2a;
+  width: 100vw;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.footer__wrapper {
+  width: 70vw;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 1.5rem;
+}
+
+.footer__heading {
+  margin: 1.5rem 0rem;
+}
+
+.image__container {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.image__vydra {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+}
+
+.image__description {
+  position: absolute;
+  top: 40%;
+  left: 55%;
+  color: black;
+  font-weight: bold;
+}
+
+a {
+  color: white;
+}
