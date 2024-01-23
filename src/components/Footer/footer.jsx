@@ -6,12 +6,12 @@ export const Footer = () => {
       <div className='footer__wrapper'>
         <div className="footer__contact">
           <h3 className="footer__heading">Kontakt</h3>
-          <address>
+          <div className='footer__adress'>
             Hotel Stříbrava<br />
             Ke Kamenné lávce 12<br />
             <br />
             <a href="mailto:recepce@hotelvydra.cz">recepce@hotelvydra.cz</a>
-          </address>
+          </div>
         </div>
         <div className="image__container">
           <img className='image__vydra' src="../../../src/img/vydra.png" alt="hotel vydra" />
