@@ -1,8 +1,13 @@
-# React + Vite
+# Hotel Vydra
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hotel Vydra is a training project aimed at practicing React skills. The goal was to recreate a project from Czechitas course to enhance understanding and proficiency in React development. Note that this project is currently incomplete.
 
-Currently, two official plugins are available:
+## Features
+- Incomplete project for practice purposes
+- Basic structure for a hotel booking system
+- Intended to include features like room listings and booking management
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  ## Technologies
+- React
+- JavaScript
+- CSS
